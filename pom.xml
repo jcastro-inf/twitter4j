@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>org.twitter4j</groupId>
-    <artifactId>twitter4j</artifactId>
+    <groupId>com.github.jcastro-inf</groupId>
+    <artifactId>twitter4j-jcastro</artifactId>
     <version>jcastro-fix-json</version>
     <packaging>pom</packaging>
     <name>twitter4j</name>
